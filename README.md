@@ -1,6 +1,6 @@
 # sostenibilidad
 
-![badges](https://img.shields.io/badge/Sostenibilidad-TICs%20y%20Medio%20Ambiente)
+![Static Badge](https://img.shields.io/badge/Sostenibilidad-TICs%20y%20Medio%20Ambiente)
 
 
 ## Índice
