@@ -1,7 +1,5 @@
 # sostenibilidad
 
-[sostenibilidad](https://img.shields.io/badge/:badgeContent)
-
 
 ## Índice
 ### Ud1.Introducción
